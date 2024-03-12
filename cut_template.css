@@ -1,0 +1,81 @@
+.red {
+    border: 1px solid red;
+}
+
+.blue {
+    border: 1px solid blue;
+}
+
+.banner {
+    height: 800px;
+    width: 1830px;
+    background: url('./Image/sanbongbanner2.jpg') center no-repeat;
+    padding: 10px;
+
+}
+
+.dangnhapdangki {
+    height: 30px;
+    width: 100%;
+    /* margin-top: 0px; */
+}
+
+.dangky {
+    float: right;
+    text-decoration: none;
+    margin-right: 40px;
+    padding: 10px 15px;
+    border: 1px solid rgb(10, 194, 10);
+    border-radius: 20px;
+}
+
+.dangnhap {
+    float: right;
+    text-decoration: none;
+    margin-right: 30px;
+    padding: 10px 15px;
+    border: 1px solid rgb(10, 194, 10);
+    border-radius: 20px;
+
+}
+
+.logo {
+    /* background: url(./Image/sanbongbanner.jpg)center center no-repeat; */
+    height: 100;
+    margin-top: 400px;
+}
+
+.left{
+    width:10%;
+    background: url(./Image/sanbongbanner.jpg) ;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+}
+.center{
+    width:10%;
+    background: url(./Image/sanbongbanner.jpg) ;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+
+}
+.right{
+    width: 10%;
+    background: url(./Image/sanbongbanner.jpg);
+    height:100px;
+    text-align: center;
+    display: inline-block;
+}
+.button{
+    text-align: center;
+}
+
+button{
+    text-transform: uppercase;
+    padding: 10px 15px; 
+    border-radius:  20px;
+    border: 1px solid green;
+    margin-top: 25px;
+    cursor: pointer;
+}
