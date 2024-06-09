@@ -4,8 +4,7 @@
 
 
 ## Giới thiệu
-
-&nbsp;Đề tài triển khai trò chơi Flappy Bird và Dino Run trên ESP32 bằng cách sử dụng kiến trúc Arduino. Trò chơi được thiết kế để chạy trên màn hình SSD1306 Oled 1,3 inch, mang lại trải nghiệm thú vị và tương tác trên nền tảng ESP32.
+&emsp;Đề tài triển khai trò chơi Flappy Bird và Dino Run trên ESP32 bằng cách sử dụng kiến trúc Arduino. Trò chơi được thiết kế để chạy trên màn hình SSD1306 Oled 1,3 inch, mang lại trải nghiệm thú vị và tương tác trên nền tảng ESP32.
 
 Các tính năng chính bao gồm : 
 - Điều khiển : Người chơi sử dụng nút bấm hoặc cảm biến đo khoảng cách để khiến nhân vật nhảy lên 
